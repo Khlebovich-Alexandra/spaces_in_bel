@@ -1,6 +1,6 @@
-.git\
-.idea\
-.ipynb_checkpoints\
-venv\
+.git/
+.idea/
+.ipynb_checkpoints/
+venv/
 
 *.bat
